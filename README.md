@@ -1,2 +1,0 @@
-# innovyx
-Innovyx Website
